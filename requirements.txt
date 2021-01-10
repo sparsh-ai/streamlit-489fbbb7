@@ -1,0 +1,9 @@
+streamlit==0.74.1
+pandas==1.1.5
+youtube_dl==2021.1.8
+pafy==0.5.5
+numpy==1.19.4
+imutils==0.5.3
+wget==3.2
+opencv_contrib_python==4.1.2.30
+Pillow==8.1.0
